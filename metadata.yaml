@@ -1,0 +1,35 @@
+_repo: Midi---quatorze-heuresl-Arsenal-Un-homme-et-une-femme_40707
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40707-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Karr, Alphonse
+    alias: Karr, Jean-Alphonse
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '37873'
+    url: http://www.gutenberg.org/2009/agents/37873
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alphonse_Karr
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40707'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century'
+- !lcc 'PQ'
+title: 'Midi à quatorze heures
+
+  Histoire d''un voisin—Voyage dans Paris—Une visite à
+
+  l''Arsenal—Un homme et une femme'
+url: http://www.gutenberg.org/ebooks/40707
